@@ -1,9 +1,0 @@
-{
-  "name": "ahh",
-  "task": [
-    {
-      "config": "0 0 * * * https://raw.githubusercontent.com/lordlesszzz/QX/refs/heads/main/test.js, img-url=https://raw.githubusercontent.com/crossutility/Quantumult-X/master/quantumult-x.png, tag=测试, enabled=true"
-    }
-  ],
-  "description": "ahh scripts"
-}
