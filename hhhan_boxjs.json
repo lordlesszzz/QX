@@ -1,0 +1,13 @@
+{
+  "id": "hhhan.app.sub",
+  "name": "hhhan脚本订阅",
+  "description": "hhhan scripts",
+  "author": "@hhhanzzz",
+  "icon": "https://avatars.githubusercontent.com/u/135320989",
+  "repo": "https://github.com/lordlesszzz/QX.git",
+  "task": [
+    {
+      "config": "0 0 * * * https://raw.githubusercontent.com/lordlesszzz/QX/refs/heads/main/test.js, img-url=https://avatars.githubusercontent.com/u/135320989, tag=测试脚本, enabled=true"
+    }
+  ]
+}
